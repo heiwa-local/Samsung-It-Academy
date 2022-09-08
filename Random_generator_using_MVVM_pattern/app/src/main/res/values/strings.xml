@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">random_generator_using_mvvm_pattern</string>
+    <string name="rnd_text">-</string>
+    <string name="get_rnd">Generate</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/textViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vertical"
+        android:textAlignment="textStart" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/layoutStyleV"
+        android:layout_gravity="center"
+        android:background="@color/red"
+        android:gravity="center"
+        android:text="Каждый" />
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/layoutStyleV"
+        android:layout_gravity="center"
+        android:background="@color/orange"
+        android:gravity="center"
+        android:text="Охотник" />
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/layoutStyleV"
+        android:layout_gravity="center"
+        android:background="@color/yellow"
+        android:gravity="center"
+        android:text="Желает" />
+
+    <TextView
+        android:id="@+id/textView5"
+        style="@style/layoutStyleV"
+        android:layout_gravity="center"
+        android:background="@color/green"
+        android:gravity="center"
+        android:text="Знать" />
+
+    <TextView
+        android:id="@+id/textView6"
+        style="@style/layoutStyleV"
+        android:layout_gravity="center"
+        android:background="@color/azure"
+        android:gravity="center"
+        android:text="Где" />
+
+    <TextView
+        android:id="@+id/textView17"
+        style="@style/layoutStyleV"
+        android:layout_gravity="center"
+        android:background="@color/blue"
+        android:gravity="center"
+        android:text="Сидит"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/textView7"
+        style="@style/layoutStyleV"
+        android:layout_gravity="center"
+        android:background="@color/violet"
+        android:gravity="center"
+        android:text="Фазан" />
+</LinearLayout>

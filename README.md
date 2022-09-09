@@ -1,1 +1,1 @@
-# Samsung-It-Academy
+# Практические задания по курсу Samsung IT Academy

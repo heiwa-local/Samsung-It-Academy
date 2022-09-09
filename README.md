@@ -1,1 +1,2 @@
-# Практические задания по курсу Samsung IT Academy
+# Samsung IT Academy
+Stack: Kotlin, MVVM, Coroutines
